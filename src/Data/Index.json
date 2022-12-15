@@ -4,27 +4,27 @@
         "name": "Premium tears",
         "price": 100,
         "description": "Premium tears",
-        "imageUrl": "/public/Images/book.jpg"
+        "imageUrl": "/Images/book.jpg"
     },
     {
         "id": 2,
         "name": "Banana",
         "price": 78,
         "description": "Banana",
-        "imageUrl": "/public/Images/banana.jpg"
+        "imageUrl": "/Images/banana.jpg"
     },
     {
         "id": 3,
         "name": "car",
         "price": 400,
         "description": "car",
-        "imageUrl": "/public/Images/car.jpg"
+        "imageUrl": "/Images/car.jpg"
     },
     {
         "id": 4,
         "name": "computer ",
         "price": 500,
         "description": "computer",
-        "imageUrl": "/public/Images/computer.jpg"
+        "imageUrl": "/Images/computer.jpg"
     }
 ]
