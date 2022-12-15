@@ -3,6 +3,7 @@ import storeData from '../Data/index.json';
 import { Col, Row } from 'react-bootstrap';
 import { StoreItem } from '../Components/StoreItem';
 export function Store() {
+    // console.log(storeData)
     return (
         <>
             <h1>Store</h1>
@@ -10,10 +11,7 @@ export function Store() {
                 {storeData.map((item) => (
                     <Col md={4} key={item.id}>
                         <StoreItem
-                            id={item.id}
-                            name={item.name}
-                            price={item.price}
-                            imageUrl={item.imageUrl}
+                            {...item}
                         />
                     </Col>
                 ))}
