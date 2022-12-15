@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Premium tears",
+        "price": 100,
+        "description": "Premium tears",
+        "imageUrl": "/public/images/book.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Banana",
+        "price": 78,
+        "description": "Banana",
+        "imageUrl": "/public/images/banana.jpg"
+    },
+    {
+        "id": 3,
+        "name": "car",
+        "price": 400,
+        "description": "car",
+        "imageUrl": "/public/images/car.jpg"
+    },
+    {
+        "id": 4,
+        "name": "computer ",
+        "price": 500,
+        "description": "computer",
+        "imageUrl": "/public/images/computer.jpg"
+    }
+]
