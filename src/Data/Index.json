@@ -3,28 +3,24 @@
         "id": 1,
         "name": "Premium tears",
         "price": 100,
-        "description": "Premium tears",
         "imageUrl": "/Images/book.jpg"
     },
     {
         "id": 2,
         "name": "Banana",
         "price": 78,
-        "description": "Banana",
         "imageUrl": "/Images/banana.jpg"
     },
     {
         "id": 3,
         "name": "car",
         "price": 400,
-        "description": "car",
         "imageUrl": "/Images/car.jpg"
     },
     {
         "id": 4,
         "name": "computer ",
         "price": 500,
-        "description": "computer",
         "imageUrl": "/Images/computer.jpg"
     }
 ]
