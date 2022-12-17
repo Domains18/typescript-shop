@@ -3,7 +3,7 @@ import storeData from '../Data/index.json';
 import { Col, Row } from 'react-bootstrap';
 import { StoreItem } from '../Components/StoreItem';
 export function Store() {
-    console.log(storeData)
+    // console.log(storeData)
     return (
         <>
             <h1>Store</h1>

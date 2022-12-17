@@ -69,7 +69,7 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
 
     function clearCart(id : number){
         setCartItems(currentItems =>{
-            return currentItems.filter( item => item.id !== item.id)
+            return currentItems.filter(item => item.id !== id)
         });
     }
     return (

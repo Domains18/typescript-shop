@@ -31,7 +31,7 @@ export function StoreItem({ id, name, price, imageUrl }: StoreItemProps): JSX.El
                                 </div>
                                 <Button onClick={()=> removeItemQuantity(id)}>-</Button>
                             </div>
-                            <Button variant='danger' size='sm' onClick={()=> clearCart(id)}> Remove from Cart</Button>
+                            <Button variant='danger' size='sm' onClick={()=> removeItemQuantity(id)}> Remove from Cart</Button>
                         </div>
                     }
                 </div>
